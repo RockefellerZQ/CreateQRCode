@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Area</key>
+	<dict>
+		<key>Australia</key>
+		<string>600</string>
+		<key>America</key>
+		<string>601</string>
+		<key>Italy</key>
+		<string>602</string>
+		<key>China</key>
+		<string>603</string>
+	</dict>
+	<key>Manufacturer</key>
+	<dict>
+		<key>LittleTreasure</key>
+		<string>001</string>
+	</dict>
+	<key>Category</key>
+	<dict>
+		<key>Milk Powder</key>
+		<string>001</string>
+		<key>Chocolate</key>
+		<string>002</string>
+	</dict>
+	<key>Specification</key>
+	<dict>
+		<key>One</key>
+		<string>001</string>
+		<key>Two</key>
+		<string>002</string>
+		<key>Three</key>
+		<string>003</string>
+	</dict>
+</dict>
+</plist>
